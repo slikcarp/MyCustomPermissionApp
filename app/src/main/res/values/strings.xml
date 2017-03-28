@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My CustomPermission App</string>
+    <string name="awesome_permission_description">This is to allow an awesome special permission.</string>
+</resources>
